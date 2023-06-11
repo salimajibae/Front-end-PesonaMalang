@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://pesonamalang.netlify.app/">
+  <a href="https://pesona-malang.netlify.app/">
     <img src="https://user-images.githubusercontent.com/100954726/177002575-81335c75-b71f-4b32-9442-c9029e845f67.png" alt="Logo" width=120 height=120>
   </a>
   <h3 align="center">Pesona Malang</h3>
   <p align="center">Website Sistem Informasi dan Pemetaan Geografis Destinasi Wisata Kota Malang</p>
   <p align="center">
-    <i>Aplikasi ini dapat diakses <a href="https://pesonamalang.netlify.app/">di sini</a></i>
+    <i>Aplikasi ini dapat diakses <a href="https://pesona-malang.netlify.app/">di sini</a></i>
   </p>
 </p>
 
