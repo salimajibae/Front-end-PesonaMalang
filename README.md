@@ -122,6 +122,3 @@
 ## Team Member
 
 - [Aji Miftahus Salim](https://www.linkedin.com/in/aji-miftahus-salim-8456a121a/)
-- [Dishanubari Pramudia](https://www.linkedin.com/in/dishanubari-pramudia-682409231/)
-- [Eko Rahayu Widodo](https://www.linkedin.com/in/eko-rahayu-widodo-989416231/)
-- [Mohammad Faisal Ramdhani](https://www.linkedin.com/in/faisalramdhanii/)
