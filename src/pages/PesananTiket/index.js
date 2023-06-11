@@ -55,7 +55,7 @@ const PesananTiket = () => {
     <div>
       <Gap height={120} />
       <form onSubmit={handleSubmit} className='container card p-3' style={{ width: '75%' }}>
-        <h2 className='text-center text-info fw-bold title'>Pesanan Tiket</h2>
+        <h2 className='text-center text-info fw-bold title'>Pesan Tiket</h2>
         {tour && (
           <>
             <div className="tour-container">
