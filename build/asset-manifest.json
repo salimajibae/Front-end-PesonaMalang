@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19396c74.css",
+    "main.js": "/static/js/main.632eebb9.js",
+    "static/media/img_jumbotron.png": "/static/media/img_jumbotron.b3e069afc6b7057aab60.png",
+    "static/media/aji.jpg": "/static/media/aji.51168d4b8aecebf83f82.jpg",
+    "static/media/logo2.png": "/static/media/logo2.f4de08d2a6be029509a7.png",
+    "static/media/logo.png": "/static/media/logo.46d049c5a9ab9c469564.png",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.19396c74.css.map": "/static/css/main.19396c74.css.map",
+    "main.632eebb9.js.map": "/static/js/main.632eebb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19396c74.css",
+    "static/js/main.632eebb9.js"
+  ]
+}

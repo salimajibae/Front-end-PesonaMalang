@@ -1,0 +1,25 @@
+.main-app-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    .skip-link {
+        position: absolute;
+        top: -60px;
+        left: 0;
+        background-color: #5bc0de;
+        color: #fff;
+        padding: 16px;
+        z-index: 1000;
+        text-decoration: none;
+    
+        &:focus {
+            top: 0;
+        }
+    }
+    .content-wrapper {
+        max-width: 1200px;
+        margin: auto;
+        width: 100%;
+        flex: 1;
+    }
+}
